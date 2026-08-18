@@ -5,7 +5,7 @@ DEFAULT CHARACTER SET utf8mb4
 DEFAULT COLLATE utf8mb4_unicode_ci;
 
 -- 생성된 스키마 사용
-USE homepick;
+USE naena;
 
 -- 테이블 생성
 -- QnA 게시판
